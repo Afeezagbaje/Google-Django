@@ -1,0 +1,13 @@
+# [Python]
+*.pyc
+venv/
+__pycache__/
+.env
+
+# [Misc]
+.vscode
+.DS_Store
+tmp/
+.idea/
+.env
+db.sqlite3
